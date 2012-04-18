@@ -1,0 +1,10 @@
+Core Codeigniter 2.x for eclipse autocomplete purpose
+
+
+Installation
+------------
+create new project in eclipse IDE named CORE_CI, take this code and put inside it, for autocomplete purpose only.
+create new project for development using CI.
+right click on new project >> Properties >> Projects >> add core_ci
+
+done.
