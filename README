@@ -3,8 +3,10 @@ Core Codeigniter 2.x for eclipse autocomplete purpose
 
 Installation
 ------------
-create new project in eclipse IDE named CORE_CI, take this code and put inside it, for autocomplete purpose only.
-create new project for development using CI.
-right click on new project >> Properties >> Projects >> add core_ci
+1. Download this code to workspace folder (folder which you store all your development codes).
+2. run Eclipse, create new project in eclipse IDE named CORE_CI, and 'link' to this code, for autocomplete purpose only.
+3. create new project, your own project ,the one that used CI. (e.g MyOwnCMS)
+4. now, right click on the project (e.g MyOwnCMS), goto "PHP Include Path" >> tab "Projects" >> click "Add" >> choose "core_ci".
+5. click "OK" and done. Now you should have the CI auto_complete syntax in you eclipse.
 
 done.
